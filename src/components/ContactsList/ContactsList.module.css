@@ -1,0 +1,28 @@
+.contact_list{
+
+}
+.contact_item{
+    display: flex;
+    justify-content: space-between;
+
+}
+.contact_name{
+    font-weight: 700;
+
+}
+.contact_number{
+    margin-left: 5px;
+
+}
+.delete_btn{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 10px;
+    height: 20px;
+    border: 1px solid gray;
+    background-color: red;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
